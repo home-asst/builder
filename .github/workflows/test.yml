@@ -15,7 +15,7 @@ jobs:
 
       - name: Get information
         id: info
-        uses: home-asst/actions/helpers/info@master
+        uses: home-asst/actions/helpers/info@next
 
   build:
     name: Test action build
